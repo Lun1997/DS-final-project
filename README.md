@@ -47,6 +47,13 @@ AUC
 ![](xgb.png)
 
 
+## 影響因素分析
+
+* 探索性資料分析<br>
+![](EDA.png)
+
+* 相關性矩陣<br>
+![](correlation cofficient matrix.png)
 
 
 
