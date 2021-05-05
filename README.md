@@ -5,7 +5,7 @@
 * 資料概述 : 醫院病患就診資訊
 * 資料維度 : 66783 x 10 
 * feature<br>
-![](feature.png)
+  ![](feature.png)
 
 | Readmission.Status | Gender | Race  | ER | DRG.Class | LOS | Age | HCC.Riskscore | DRG.Complication |
 |--------------------|--------|-------|----|-----------|-----|-----|---------------|------------------|
