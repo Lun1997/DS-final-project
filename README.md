@@ -53,7 +53,7 @@ AUC
 ![](EDA.png)
 
 * 相關性矩陣<br>
-![](correlation cofficient matrix.png)
+![](https://github.com/Lun1997/Hospital-Readmissions-prediction/blob/main/correlation%20cofficient%20matrix.png)
 
 
 
