@@ -40,12 +40,7 @@ AUC
 
 ## 模型比較(5 fold cross validation)
 
-
-* randomforest<br>
-![](rf.png)
-* xgboost<br>
-![](xgb.png)
-
+![](模型比較.png)
 
 ## 影響因素分析
 
