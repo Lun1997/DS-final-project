@@ -27,5 +27,12 @@
 | 1                  | M      | White | 0  | SURG      | 8   | 67  | 10.897        | SurgMCC.CC       |
 | 0                  | M      | White | 1  | MED       | 9   | 43  | 10.764        | MedicalNoC       |
  
+ 
  * target<br>
-預測客戶逾期繳款的機率
+1. 以Readmission.Status(再次入院)為目標建立二元分類模型<br>
+2. 分析再次入院的的因素
+
+* metric<br>
+AUC
+
+## 模型比較
