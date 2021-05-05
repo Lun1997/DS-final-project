@@ -41,10 +41,11 @@ AUC
 ## 模型比較(5 fold cross validation)
 
 
-* randomforest
+* randomforest<br>
 ![](rf.png)
-* xgboost
+* xgboost<br>
 ![](xgb.png)
+
 
 
 
