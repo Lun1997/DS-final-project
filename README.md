@@ -46,7 +46,7 @@ AUC
 
 * 探索性資料分析<br>
 ![](EDA.png)
-![](EDA.png)
+![](EDA2.png)
 * 相關性矩陣<br>
 ![](https://github.com/Lun1997/Hospital-Readmissions-prediction/blob/main/correlation%20cofficient%20matrix.png)
 
