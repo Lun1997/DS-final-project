@@ -35,4 +35,21 @@
 * metric<br>
 AUC
 
-## 模型比較
+* 模型評估<br>
+5 fold cross validation
+
+## 模型比較(5 fold cross validation)
+
+
+* randomforest
+![](rf.png)
+* xgboost
+![](xgb.png)
+
+
+
+
+
+
+
+
